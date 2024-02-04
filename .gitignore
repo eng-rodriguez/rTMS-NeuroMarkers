@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distirbution / packaging
+.Python
+build/
+dist/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this.directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# profilinf data
+.prof
+
+# Data and docs directories
+data/
+docs/
+*.csv
+*.xlsx
+*.txt
+*.docx
+*.pdf
+
+# Log giles
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+
+# Local configuration file
+/config.py
+/instance/
